@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="boardBackground" format="color"/>
+    <attr name="crossColor" format="color"/>
+    <attr name="circleColor" format="color"/>
+    <attr name="boardBorderColor" format="color"/>
+</resources>

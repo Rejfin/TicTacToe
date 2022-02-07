@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KÓŁKO I KRZYŻYK</string>
+    <string name="exit">Wyjście</string>
+    <string name="one_player">Jeden Gracz</string>
+    <string name="two_player">Dwóch graczy</string>
+    <string name="player">Gracz</string>
+    <string name="end_game">Zakończ grę</string>
+    <string name="end_game_message_win">Wygrana!!</string>
+    <string name="end_game_message_lose">Przegrana :/</string>
+    <string name="end_game_message_draw">Remis :)</string>
+    <string name="game_won_player">Grę wygrał gracz grający jako: %1$s</string>
+    <string name="play_again">graj ponownie</string>
+    <string name="go_to_menu">wróć do menu</string>
+    <string name="cross">krzyżyk</string>
+    <string name="circle">kółko</string>
+</resources>

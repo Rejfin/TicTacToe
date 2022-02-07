@@ -1,0 +1,15 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.TicTacToe" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/buttons_color</item>
+        <item name="colorPrimaryDark">@color/buttons_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <item name="boardBackground">@color/board_background</item>
+        <item name="crossColor">@color/cross_color</item>
+        <item name="circleColor">@color/circle_color</item>
+        <item name="boardBorderColor">@color/board_border_color</item>
+    </style>
+</resources>
